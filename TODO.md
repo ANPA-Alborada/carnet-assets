@@ -1,0 +1,11 @@
+# TODO
+
+## Pendiente
+
+- Confirmar si hacen falta formatos derivados del logo para Android, iOS o web.
+- Definir una politica de nombres para futuros assets.
+
+## Logros
+
+- Repositorio inicializado para publicar el logo principal.
+- Remoto `origin` configurado para GitHub.

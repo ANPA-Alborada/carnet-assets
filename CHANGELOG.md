@@ -1,0 +1,8 @@
+# CHANGELOG
+
+## 2026-06-12
+
+- Inicializado el repositorio local de assets.
+- Documentado el asset inicial `LogoAnpa.png`.
+- Anadida regla para excluir metadatos locales `.DS_Store`.
+- Configurado el remoto `origin` de GitHub.
