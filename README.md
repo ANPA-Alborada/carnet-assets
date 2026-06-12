@@ -13,3 +13,4 @@ Los proyectos consumidores deben referenciar los assets desde este repositorio s
 ## Repositorio remoto
 
 - Origin: `git@github.com:ANPA-Alborada/carnet-assets.git`
+- Rama publicada: `main`

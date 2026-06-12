@@ -9,3 +9,4 @@
 
 - Repositorio inicializado para publicar el logo principal.
 - Remoto `origin` configurado para GitHub.
+- Rama `main` publicada en GitHub con el logo principal.

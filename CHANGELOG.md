@@ -6,3 +6,4 @@
 - Documentado el asset inicial `LogoAnpa.png`.
 - Anadida regla para excluir metadatos locales `.DS_Store`.
 - Configurado el remoto `origin` de GitHub.
+- Publicada la rama `main` en GitHub.
