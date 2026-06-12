@@ -15,6 +15,13 @@ Repositorio remoto: `git@github.com:ANPA-Alborada/carnet-assets.git`
 - Dimensiones: 679 x 640 px
 - Uso: identidad visual principal del carnet y aplicaciones relacionadas.
 
+### Tira grafica
+
+- Archivo: `strip.png`
+- Formato: PNG RGBA
+- Dimensiones: 1125 x 432 px
+- Uso: recurso grafico complementario para piezas visuales del carnet.
+
 ## Reglas de evolucion
 
 - Mantener los assets originales sin sobrescribirlos con versiones derivadas.
