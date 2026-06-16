@@ -12,3 +12,4 @@
 - Rama `main` publicada en GitHub con el logo principal.
 - Asset `strip.png` preparado para publicacion.
 - Asset `Fiesta.jpeg` documentado para publicacion.
+- Asset `banner-evento.png` documentado para publicacion.

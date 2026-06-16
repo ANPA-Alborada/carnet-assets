@@ -29,6 +29,13 @@ Repositorio remoto: `git@github.com:ANPA-Alborada/carnet-assets.git`
 - Dimensiones: 259 x 194 px
 - Uso: recurso visual para comunicaciones de fiesta y piezas relacionadas.
 
+### Banner de evento
+
+- Archivo: `banner-evento.png`
+- Formato: PNG RGBA
+- Dimensiones: 1032 x 336 px
+- Uso: recurso visual para cabeceras y comunicaciones de eventos.
+
 ## Reglas de evolucion
 
 - Mantener los assets originales sin sobrescribirlos con versiones derivadas.

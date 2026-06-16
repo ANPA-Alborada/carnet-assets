@@ -7,6 +7,7 @@ Repositorio de assets graficos para el carnet de ANPA Alborada.
 - `LogoAnpa.png`: logo principal de ANPA Alborada en formato PNG con canal alfa.
 - `strip.png`: tira grafica en formato PNG con canal alfa.
 - `Fiesta.jpeg`: imagen de fiesta en formato JPEG para comunicaciones y piezas visuales.
+- `banner-evento.png`: banner de evento en formato PNG con canal alfa.
 
 ## Uso
 

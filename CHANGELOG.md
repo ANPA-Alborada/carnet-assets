@@ -3,6 +3,7 @@
 ## 2026-06-16
 
 - Documentado el nuevo asset `Fiesta.jpeg`.
+- Documentado el nuevo asset `banner-evento.png`.
 
 ## 2026-06-12
 
