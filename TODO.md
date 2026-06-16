@@ -11,3 +11,4 @@
 - Remoto `origin` configurado para GitHub.
 - Rama `main` publicada en GitHub con el logo principal.
 - Asset `strip.png` preparado para publicacion.
+- Asset `Fiesta.jpeg` documentado para publicacion.

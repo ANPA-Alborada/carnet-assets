@@ -22,6 +22,13 @@ Repositorio remoto: `git@github.com:ANPA-Alborada/carnet-assets.git`
 - Dimensiones: 1125 x 432 px
 - Uso: recurso grafico complementario para piezas visuales del carnet.
 
+### Imagen de fiesta
+
+- Archivo: `Fiesta.jpeg`
+- Formato: JPEG RGB
+- Dimensiones: 259 x 194 px
+- Uso: recurso visual para comunicaciones de fiesta y piezas relacionadas.
+
 ## Reglas de evolucion
 
 - Mantener los assets originales sin sobrescribirlos con versiones derivadas.
