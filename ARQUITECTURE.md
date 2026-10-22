@@ -36,6 +36,16 @@ Repositorio remoto: `git@github.com:ANPA-Alborada/carnet-assets.git`
 - Dimensiones: 1032 x 336 px
 - Uso: recurso visual para cabeceras y comunicaciones de eventos.
 
+### Banner de Halloween 2026
+
+- Archivo: `banner-eventoHalloween2026.png`.
+- Formato: PNG.
+- Dimensiones: 1032 × 812 px, proporcion recomendada para eventos Google Wallet.
+- Distribucion: URL HTTPS directa de `raw.githubusercontent.com`, rama `main`.
+- Independiente del banner anterior; cada pase referencia su propia URL.
+- Verificacion local: `sips -g pixelWidth -g pixelHeight banner-eventoHalloween2026.png`.
+- Autotest publico: `curl --fail --location --output /dev/null "https://raw.githubusercontent.com/ANPA-Alborada/carnet-assets/main/banner-eventoHalloween2026.png"`.
+
 ## Reglas de evolucion
 
 - Mantener los assets originales sin sobrescribirlos con versiones derivadas.

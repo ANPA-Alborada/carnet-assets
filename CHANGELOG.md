@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2026-10-22
+
+- Publicacion de `banner-eventoHalloween2026.png` (1032 × 812) para Google Wallet.
+- Se conserva `banner-evento.png` y se documenta la URL del nuevo recurso.
+
 ## 2026-06-16
 
 - Documentado el nuevo asset `Fiesta.jpeg`.

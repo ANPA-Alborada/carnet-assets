@@ -13,3 +13,5 @@
 - Asset `strip.png` preparado para publicacion.
 - Asset `Fiesta.jpeg` documentado para publicacion.
 - Asset `banner-evento.png` documentado para publicacion.
+
+- Banner `banner-eventoHalloween2026.png` incorporado para publicar en `main`, conservando el anterior.
