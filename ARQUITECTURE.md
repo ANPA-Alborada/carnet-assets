@@ -46,6 +46,8 @@ Repositorio remoto: `git@github.com:ANPA-Alborada/carnet-assets.git`
 - Dimensiones: 1032 × 812 px, proporcion recomendada para eventos Google Wallet.
 - Distribucion: URL HTTPS directa de `raw.githubusercontent.com`, rama `main`.
 - Independiente del banner anterior; cada pase referencia su propia URL.
+- Actualizado el 30 de octubre de 2026 con `banner-eventoPRueba.png`, manteniendo la URL que utilizan los pases existentes.
+- Autotest de sustitucion: `cmp banner-eventoPRueba.png banner-eventoHalloween2026.png`.
 - Verificacion local: `sips -g pixelWidth -g pixelHeight banner-eventoHalloween2026.png`.
 - Autotest publico: `curl --fail --location --output /dev/null "https://raw.githubusercontent.com/ANPA-Alborada/carnet-assets/main/banner-eventoHalloween2026.png"`.
 

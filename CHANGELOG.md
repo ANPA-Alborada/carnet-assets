@@ -2,6 +2,8 @@
 
 ## 2026-10-30
 
+- Corregido el destino de la sustitucion: los pases usan `banner-eventoHalloween2026.png`; se actualiza tambien ese archivo con la imagen aportada, conservando su URL publica.
+
 - Sustituido `banner-evento.png` por la imagen aportada en `banner-eventoPRueba.png`, conservando exactamente sus bytes y dimensiones (1032 × 812).
 - Actualizada la documentacion y verificada la igualdad de ambos archivos mediante SHA-256.
 - Publicacion autorizada en GitHub manteniendo la URL de `banner-evento.png`.
