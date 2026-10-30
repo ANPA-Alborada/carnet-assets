@@ -32,9 +32,12 @@ Repositorio remoto: `git@github.com:ANPA-Alborada/carnet-assets.git`
 ### Banner de evento
 
 - Archivo: `banner-evento.png`
-- Formato: PNG RGBA
-- Dimensiones: 1032 x 336 px
+- Formato: PNG
+- Dimensiones: 1032 x 812 px
 - Uso: recurso visual para cabeceras y comunicaciones de eventos.
+- Original: `banner-eventoPRueba.png`, incorporado el 30 de octubre de 2026.
+- Sustitucion solicitada expresamente, sin recortes ni transformaciones.
+- Autotest local: `cmp banner-eventoPRueba.png banner-evento.png`.
 
 ### Banner de Halloween 2026
 

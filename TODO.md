@@ -7,6 +7,9 @@
 
 ## Logros
 
+- Banner `banner-evento.png` sustituido por la imagen aportada el 30 de octubre de 2026, sin recortes ni modificaciones.
+- Publicacion autorizada del banner actualizado en GitHub conservando su URL.
+
 - Repositorio inicializado para publicar el logo principal.
 - Remoto `origin` configurado para GitHub.
 - Rama `main` publicada en GitHub con el logo principal.
