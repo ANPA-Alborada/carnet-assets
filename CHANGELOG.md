@@ -2,6 +2,9 @@
 
 ## 2026-10-30
 
+- Recuperada la imagen anterior de Halloween del commit `de28ca7` en `banner-eventoHalloween2026-anterior.png`, sin modificar la imagen nueva de la URL activa.
+- Restaurado `banner-evento.png` desde `de28ca7` para deshacer su sustitucion accidental.
+
 - Corregido el destino de la sustitucion: los pases usan `banner-eventoHalloween2026.png`; se actualiza tambien ese archivo con la imagen aportada, conservando su URL publica.
 
 - Sustituido `banner-evento.png` por la imagen aportada en `banner-eventoPRueba.png`, conservando exactamente sus bytes y dimensiones (1032 × 812).

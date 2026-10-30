@@ -33,11 +33,9 @@ Repositorio remoto: `git@github.com:ANPA-Alborada/carnet-assets.git`
 
 - Archivo: `banner-evento.png`
 - Formato: PNG
-- Dimensiones: 1032 x 812 px
+- Dimensiones: 1032 x 336 px
 - Uso: recurso visual para cabeceras y comunicaciones de eventos.
-- Original: `banner-eventoPRueba.png`, incorporado el 30 de octubre de 2026.
-- Sustitucion solicitada expresamente, sin recortes ni transformaciones.
-- Autotest local: `cmp banner-eventoPRueba.png banner-evento.png`.
+- Restaurado desde el commit `de28ca7` tras una sustitucion accidental.
 
 ### Banner de Halloween 2026
 
@@ -52,6 +50,12 @@ Repositorio remoto: `git@github.com:ANPA-Alborada/carnet-assets.git`
 - Autotest publico: `curl --fail --location --output /dev/null "https://raw.githubusercontent.com/ANPA-Alborada/carnet-assets/main/banner-eventoHalloween2026.png"`.
 
 ## Reglas de evolucion
+
+### Archivo de la imagen anterior de Halloween
+
+- Archivo: `banner-eventoHalloween2026-anterior.png` (1032 × 812 px).
+- Recuperado sin transformaciones desde `de28ca7:banner-eventoHalloween2026.png`.
+- Autotest: `git show de28ca7:banner-eventoHalloween2026.png | cmp - banner-eventoHalloween2026-anterior.png`.
 
 - Mantener los assets originales sin sobrescribirlos con versiones derivadas.
 - Documentar nuevas categorias de assets como modulos separados.

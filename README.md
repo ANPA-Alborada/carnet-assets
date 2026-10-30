@@ -7,7 +7,8 @@ Repositorio de assets graficos para el carnet de ANPA Alborada.
 - `LogoAnpa.png`: logo principal de ANPA Alborada en formato PNG con canal alfa.
 - `strip.png`: tira grafica en formato PNG con canal alfa.
 - `Fiesta.jpeg`: imagen de fiesta en formato JPEG para comunicaciones y piezas visuales.
-- `banner-evento.png`: banner de evento actualizado con la imagen aportada el 30 de octubre de 2026 (1032 × 812).
+- `banner-evento.png`: banner original de evento (1032 × 336), restaurado tras una sustitucion por error.
+- `banner-eventoHalloween2026-anterior.png`: imagen anterior de Halloween conservada sin modificaciones (1032 × 812).
 - `banner-eventoPRueba.png`: imagen original aportada para sustituir el banner de evento.
 - `banner-eventoHalloween2026.png`: banner usado por los pases de Halloween 2026, actualizado con la imagen aportada el 30 de octubre (1032 × 812).
 
