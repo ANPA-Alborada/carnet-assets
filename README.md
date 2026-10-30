@@ -4,6 +4,8 @@ Repositorio de assets graficos para el carnet de ANPA Alborada.
 
 ## Assets incluidos
 
+- `banner-eventoHAlloween2026Android.png`: nueva imagen de Halloween para probar en Google Wallet (1032 × 812), publicada como archivo independiente.
+
 - `LogoAnpa.png`: logo principal de ANPA Alborada en formato PNG con canal alfa.
 - `strip.png`: tira grafica en formato PNG con canal alfa.
 - `Fiesta.jpeg`: imagen de fiesta en formato JPEG para comunicaciones y piezas visuales.
@@ -24,6 +26,8 @@ Los proyectos consumidores deben referenciar los assets desde este repositorio s
 - Rama publicada: `main`
 
 ## Halloween 2026
+
+[Nueva imagen para Android](https://raw.githubusercontent.com/ANPA-Alborada/carnet-assets/main/banner-eventoHAlloween2026Android.png).
 
 [Imagen publica para Google Wallet](https://raw.githubusercontent.com/ANPA-Alborada/carnet-assets/main/banner-eventoHalloween2026.png).
 Esta URL se mantiene y sirve la nueva imagen aportada el 30 de octubre de 2026.

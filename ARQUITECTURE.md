@@ -51,6 +51,13 @@ Repositorio remoto: `git@github.com:ANPA-Alborada/carnet-assets.git`
 
 ## Reglas de evolucion
 
+### Banner de Halloween para Android
+
+- Archivo: `banner-eventoHAlloween2026Android.png`, con las mayusculas del original aportado.
+- Formato: PNG; dimensiones: 1032 × 812 px.
+- Uso: nueva imagen para probar en el generador de Google Wallet, independiente de los banners existentes.
+- Autotest publico: `curl --fail --location --output /dev/null "https://raw.githubusercontent.com/ANPA-Alborada/carnet-assets/main/banner-eventoHAlloween2026Android.png"`.
+
 ### Archivo de la imagen anterior de Halloween
 
 - Archivo: `banner-eventoHalloween2026-anterior.png` (1032 × 812 px).

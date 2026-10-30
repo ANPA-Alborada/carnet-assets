@@ -7,6 +7,8 @@
 
 ## Logros
 
+- Nueva imagen `banner-eventoHAlloween2026Android.png` preparada para publicacion independiente, conservando todos los banners existentes.
+
 - Corregido el archivo publicado: `banner-eventoHalloween2026.png` usa la nueva imagen y mantiene la URL utilizada por los pases existentes.
 
 - Banner original `banner-evento.png` restaurado y anterior imagen de Halloween recuperada como `banner-eventoHalloween2026-anterior.png`.

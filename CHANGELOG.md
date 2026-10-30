@@ -2,6 +2,8 @@
 
 ## 2026-10-30
 
+- Incorporada `banner-eventoHAlloween2026Android.png` (1032 × 812) para probar en Google Wallet, sin sustituir otros archivos.
+
 - Recuperada la imagen anterior de Halloween del commit `de28ca7` en `banner-eventoHalloween2026-anterior.png`, sin modificar la imagen nueva de la URL activa.
 - Restaurado `banner-evento.png` desde `de28ca7` para deshacer su sustitucion accidental.
 
